@@ -29,5 +29,6 @@ namespace MokWebApi.Models
         {
             return new ApplicationDbContext();
         }
+        public System.Data.Entity.DbSet<MokWebApi.Models.EndUser> EndUsers { get; set; }
     }
 }
