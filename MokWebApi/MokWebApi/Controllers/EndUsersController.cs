@@ -11,7 +11,7 @@ using System.Web.Http.Description;
 using MokWebApi.Models;
 
 
-namespace ServerDatabase.Controllers
+namespace MokWebApi.Controllers
 {
     public class EndUsersController : ApiController
     {

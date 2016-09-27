@@ -1,0 +1,6 @@
+namespace MokWebApiNoAuth.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
